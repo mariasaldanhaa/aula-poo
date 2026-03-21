@@ -21,7 +21,7 @@ Repositório criado para organizar e documentar minha jornada de aprendizado em 
 
 ### No Eclipse:
 1. **File** → **Import** → **Existing Projects into Workspace**
-2. Selecione a pasta `exercicio-java`
+2. Selecione a pasta `aula-poo`
 3. Marque os projetos desejados
 4. Clique em **Finish**
 5. Execute com botão direito na classe → **Run As** → **Java Application**
