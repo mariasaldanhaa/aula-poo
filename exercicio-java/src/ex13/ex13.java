@@ -1,9 +1,9 @@
 package ex13;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class ex13 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Digite um número inteiro: ");

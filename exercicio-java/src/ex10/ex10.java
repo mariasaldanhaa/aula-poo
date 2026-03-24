@@ -1,9 +1,9 @@
 package ex10;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class ex10 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Digite o valor do tempo gasto na viagem: ");
