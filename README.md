@@ -19,9 +19,17 @@ Repositório criado para organizar e documentar minha jornada de aprendizado em 
 
 ## 🚀 Como Importar/Executar
 
-### No Eclipse:
-1. **File** → **Import** → **Existing Projects into Workspace**
-2. Selecione a pasta `exercicio-java`
-3. Marque os projetos desejados
-4. Clique em **Finish**
-5. Execute com botão direito na classe → **Run As** → **Java Application**
+### No VS Code:
+
+1. Abra o Visual Studio Code.
+2. Abra o terminal integrado:
+ - Use o atalho **Ctrl + '** ou vá em **Terminal > New Terminal**
+ - Navegue até a pasta onde deseja salvar o projeto:
+  *Exemplo:* `cd Documentos`
+3. Execute o comando de clonagem:
+  `git clone https://github.com/seu-usuario/seu-repositorio.git`
+4. Aguarde o download do repositório.
+5. Acesse a pasta do projeto:
+  `cd nome-do-repositorio`
+6. Abra o projeto no VS Code:
+  `code .`
