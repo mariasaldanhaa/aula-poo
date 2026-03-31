@@ -1,4 +1,4 @@
-package Ex6;
+package Ex06;
 
 import java.util.*;
 

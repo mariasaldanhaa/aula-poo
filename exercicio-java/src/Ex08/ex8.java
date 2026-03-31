@@ -1,4 +1,4 @@
-package Ex8;
+package Ex08;
 
 import java.util.*;
 

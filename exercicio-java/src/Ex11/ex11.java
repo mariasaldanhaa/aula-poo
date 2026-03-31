@@ -14,11 +14,11 @@ public class ex11 {
 		
 		double valueKW = salary / 7 / 100;
 		
-		double withoutDiscount = valueKW * 234;
+		double withoutDiscount = valueKW * kw;
 		
 		double withDiscount = withoutDiscount - withoutDiscount * 0.1;
 		
-		System.out.printf("Valor de cada quilowatt(R$): %.6f", valueKW);
+		System.out.printf("\nValor de cada quilowatt(R$): %.6f", valueKW);
 		System.out.printf("\nValor a ser pago sem o desconto(R$): %.3f", withoutDiscount);
 		System.out.printf("\nValor a ser pago com o desconto(R$): %.3f", withDiscount);
 		

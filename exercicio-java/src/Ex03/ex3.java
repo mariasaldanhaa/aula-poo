@@ -1,4 +1,4 @@
-package Ex3;
+package Ex03;
 
 import java.util.*;
 
