@@ -14,6 +14,10 @@ Repositório criado para organizar e documentar minha jornada de aprendizado em 
 
 | Pasta/Arquivo | Descrição |
 |---------------|-----------|
+| 📁 `Atividade02_SemPOO/` | Exercício02 sem POO para casa |
+| 📁 `Atividade02_POO/` | Exercício02 com POO para casa |
+| 📁 `Atividade01_POO/` | Exercício01 com POO para casa |
+| 📁 `Atividade_POO/` | Exercício0 aplicado em sala de aula |
 | 📁 `exercicios-java/` | Exercícios práticos resolvidos |
 | 📄 `README.md` | Documentação principal do projeto |
 
