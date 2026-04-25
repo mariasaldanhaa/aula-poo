@@ -14,7 +14,7 @@ Repositório criado para organizar e documentar minha jornada de aprendizado em 
 
 | Pasta/Arquivo | Descrição |
 |---------------|-----------|
-| 📁 `Atividade0_POO/` | Exercício 0 aplicado em sala de aula |
+| 📁 `Atividade_POO/` | Exercício 0 aplicado em sala de aula |
 | 📁 `Atividade01_POO/` | Exercício 1 com POO para casa |
 | 📁 `Atividade02_POO/` | Exercício 2 com POO para casa |
 | 📁 `Atividade02_SemPOO/` | Exercício 2 sem POO para casa |
