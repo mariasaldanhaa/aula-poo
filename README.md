@@ -14,10 +14,12 @@ Repositório criado para organizar e documentar minha jornada de aprendizado em 
 
 | Pasta/Arquivo | Descrição |
 |---------------|-----------|
-| 📁 `Atividade02_SemPOO/` | Exercício02 sem POO para casa |
-| 📁 `Atividade02_POO/` | Exercício02 com POO para casa |
-| 📁 `Atividade01_POO/` | Exercício01 com POO para casa |
-| 📁 `Atividade_POO/` | Exercício0 aplicado em sala de aula |
+| 📁 `Atividade0_POO/` | Exercício 0 aplicado em sala de aula |
+| 📁 `Atividade01_POO/` | Exercício 1 com POO para casa |
+| 📁 `Atividade02_POO/` | Exercício 2 com POO para casa |
+| 📁 `Atividade02_SemPOO/` | Exercício 2 sem POO para casa |
+| 📁 `Atividade03_Encapsulamento/` | Exercício 3 com encapsulamento para casa |
+| 📁 `Atividade03_SemEncapsulamento/` | Exercício 3 sem encapsulamento para casa |
 | 📁 `exercicios-java/` | Exercícios práticos resolvidos |
 | 📄 `README.md` | Documentação principal do projeto |
 
