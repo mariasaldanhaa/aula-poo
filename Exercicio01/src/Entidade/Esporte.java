@@ -50,6 +50,8 @@ public class Esporte {
 	public int getBronze() {
 		return qtdBronze;
 	}
+	
+	// informações do páis campeão
 	public void setNome1(String nomePais) {
 		this.nomePais = nomePais;
 	}
@@ -87,6 +89,7 @@ public class Esporte {
 		return qtdBronze1;
 	}
 	
+	// calculando a diferença
 	public int diferencaOuro() {
 		int diferencaOuro = qtdOuro1 - qtdOuro;
 		return diferencaOuro;
